@@ -47,8 +47,5 @@
 
 ---
 
-<div>
-  <h3>:fire: My Stats:</h3>
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndeweyzxc&theme=radical)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<h3>:fire: My Stats:</h3>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=vision-friendly-dark)" />
