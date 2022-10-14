@@ -49,6 +49,6 @@
 
 <div>
   <h3>:fire: My Stats:</h3>
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=dark)](https://git.io/streak-stats)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=johndeweyzxc&theme=radical)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
