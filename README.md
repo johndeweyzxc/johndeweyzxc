@@ -48,4 +48,6 @@
 ---
 
 <h3>:fire: My Stats:</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=vision-friendly-dark)" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=demo&theme=vision-friendly-dark" align="center" />
+</div>
