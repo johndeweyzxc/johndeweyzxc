@@ -49,5 +49,5 @@
 
 <h3>:fire: My Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=demo&theme=vision-friendly-dark" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=vision-friendly-dark" align="center" />
 </div>
