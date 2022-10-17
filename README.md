@@ -1,14 +1,4 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-    <a href="https://twitter.com/johnnmyyyy" >
-      <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white&style=for-the-badge" alt="Twitter" />
-    </a>
-    <a href="https://www.facebook.com/johndewey.altura1" >
-      <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook" />
-    </a>
-  </div>
-  
   <h1>
     Hello!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
