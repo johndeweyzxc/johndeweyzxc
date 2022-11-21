@@ -1,7 +1,7 @@
-<h3>Statistics and Contributions</h3>
+<h2 align="center">Statistics and Contributions</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&langs_count=10&layout=compact&theme=radical" align="center" />
-  <img src="" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&langs_count=10&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=johndeweyzxc&show_icons=true&theme=radical" />
 </div>
 
 <div>
