@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=200&duration=3000&width=535&lines=Software+Developer;Desarrollador+de+software;소프트웨어+개발자;软件开发人员;"  alt="Software Developer"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&pause=200&duration=3000&width=535&lines=Software+Developer;软件开发人员;Desarrollador+de+software;소프트웨어+개발자;"  alt="Software Developer"/>
 </div>
 
 <div style="display: flex;" align="left">
