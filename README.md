@@ -4,7 +4,7 @@
 
 <div style="display: flex;" align="left">
   <img width="335" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&langs_count=8&layout=compact&theme=vision-friendly-dark&border_radius=7.5" />
-  <img width="465" src="https://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=vision-friendly-dark&&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="462" src="https://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=vision-friendly-dark&&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" />
 </div>
 
 <hr />
