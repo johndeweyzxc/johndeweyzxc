@@ -1,5 +1,5 @@
 <div style="text-align: center;"> 
-  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&width=535&lines=Hello+World!;I+am+a+Web+developer;Android+developer;"  alt="Hello World!"/>
+  <img width="400" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=2500&width=535&lines=Hello+World!;Me+is+Web+Developer;and+Android+Developer"  alt="Hello World!"/>
 </div>
 
 <div style="display: flex;" align="left">
