@@ -8,9 +8,8 @@
 <hr />
 
 <div align="center">
-  <img width=430 src="https://github-readme-stats.vercel.app/api?username=johndeweyzxc&show_icons=true&theme=highcontrast" />
-  <img width="460" src="https://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=vision-friendly-dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" />
-  <img width="300" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&border_radius=7.5&theme=vision-friendly-dark&langs_count=12" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=vision-friendly-dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="310" style="margin-right: 30px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&border_radius=7.5&theme=vision-friendly-dark&langs_count=8" />
 </div>
 
 <div>
