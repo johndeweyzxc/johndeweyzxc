@@ -5,7 +5,7 @@
 </p>
 
 <div>
-  <h2 align="left">:rocket: My Knowledge Stack:
+  <h2 align="left">🚀 My Knowledge Stack:
     <img width="400" align="center" src="https://readme-typing-svg.herokuapp.com?font=DM+Sans&weight=800&size=30&pause=500&duration=1500&color=FFB000&width=555&lines=HTML+CSS+Javascript+for+web;C/CPP+for+embedded+systems;Python+for+backend+development;Kotlin+for+android+development;Java+for+android+development;Fast+API+for+building+rest+apis;CMake+build+tool;Gradle+build+tool;Visual+Studio+Code;Android+Studio;Arduino+IDE;Git+version+control+system;Docker+for+containerizing+apps;Linux+Operating+System"  alt="Software Developer"/>
   </h2>
   <div align="center">
@@ -13,7 +13,7 @@
   </div>
 </div>
 
-<h2>:zap: My Github Stats</h2>
+<h2>⚡ My Github Stats</h2>
 
 <div align="center">
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=johndeweyzxc&theme=vision-friendly-dark&border_radius=7.5&date_format=M%20j%5B%2C%20Y%5D" />
