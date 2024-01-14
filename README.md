@@ -4,7 +4,7 @@
 
 Hi, I'm a 3rd year computer science student 🎓 from Cavite State University Imus Campus 🏫. I am interested in software engineering📐, computer science 🛰️, and cybersecurity 🔒. I have recognized the patterns in most programming language so I am able to read and write code in Java, Python, C, C++, Kotlin, Javascript and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
 
-Skills: Object Oriented Programming / Design Patterns / High Level Programming / Low Level Programming / Event Driven Programming / Frontend and Backend Development / Architecture / Android App Development / Embedded Systems / Linux and Windows / Virtual Machines / Containerization
+Skills: Object Oriented Programming / Design Patterns / High Level Programming / Low Level Programming / Event Driven Programming / Frontend and Backend Development / Application Architecture / Android App Development / Embedded Systems / Linux and Windows Administration / SQL Database / Virtual Machines / Containerization
 
 - 🔭 I’m currently working on Project K 
 - 🌱 I’m currently learning Data Science and Machine Learning 
@@ -16,7 +16,7 @@ Skills: Object Oriented Programming / Design Patterns / High Level Programming /
 <div>
   <h2 align="left">🚀 My Knowledge Stack:</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux" />
   </div>
 </div>
 
