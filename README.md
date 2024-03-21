@@ -2,11 +2,10 @@
 <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-Hi, I'm a 3rd year computer science student 🎓 from Cavite State University Imus Campus 🏫. I am interested in software engineering📐, computer science 🛰️, and cybersecurity 🔒. I have recognized the patterns in most programming language so I am able to read and write code in Java, Python, C, C++, Kotlin, Javascript and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
+Hi, I'm a 3rd year computer science student from Cavite State University Imus Campus. I am interested in software development, computer science, and data science. I have recognized the patterns in most programming language so I am able to read and write code in Java, Python, C, C++, Kotlin, Javascript and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
 
-Skills: Object Oriented Programming / Design Patterns / High Level Programming / Low Level Programming / Event Driven Programming / Frontend and Backend Development / Application Architecture / Android App Development / Embedded Systems / Linux and Windows Administration / SQL Database / Virtual Machines / Containerization
+Knowledge Stack: HTML / CSS / JavaScript / TypeScript / C / C++ / Python / Kotlin / Java / React / FastAPI / Cmake / Gradle / VsCode / Android Studio / Arduino / Git / MySQL / SQLite / Docker / Linux (Debian-based) / Firebase
 
-- 🔭 I’m currently working on Project K 
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 📫 How to reach me: johndewey02003@gmail.com 
 
@@ -16,7 +15,7 @@ Skills: Object Oriented Programming / Design Patterns / High Level Programming /
 <div>
   <h2 align="left">🚀 My Knowledge Stack:</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux,firebase" />
   </div>
 </div>
 
