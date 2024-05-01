@@ -4,7 +4,7 @@
 
 Hi, I'm a 3rd year computer science student from Cavite State University Imus Campus. I am interested in software development, computer science, and data science. I have recognized the patterns in most programming language so I am able to read and write code in Java, Python, C, C++, Kotlin, Javascript and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
 
-Knowledge Stack: HTML / CSS / JavaScript / TypeScript / C / C++ / Python / Kotlin / Java / React / FastAPI / Cmake / Gradle / VsCode / Android Studio / Arduino / Git / MySQL / SQLite / Docker / Linux (Debian-based) / Firebase
+Knowledge Stack: HTML | CSS | JavaScript | TypeScript | C | C++ | Python | Kotlin | Java | React | Material UI | Tailwind CSS | FastAPI | Cmake | Gradle | VsCode | Android Studio | Arduino | Git | MySQL | SQLite | Docker | Linux (Debian-based) | Firebase
 
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 📫 How to reach me: johndewey02003@gmail.com 
@@ -15,7 +15,7 @@ Knowledge Stack: HTML / CSS / JavaScript / TypeScript / C / C++ / Python / Kotli
 <div>
   <h2 align="left">🚀 My Knowledge Stack:</h2>
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux,firebase" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,materialui,tailwind,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux,firebase" />
   </div>
 </div>
 
