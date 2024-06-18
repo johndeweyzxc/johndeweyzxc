@@ -2,21 +2,13 @@
 <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-Hi, I'm a 3rd year computer science student from Cavite State University Imus Campus. I am interested in software development, computer science, and data science. I have recognized the patterns in most programming language so I am able to read and write code in Java, Python, C, C++, Kotlin, Javascript and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
+Hi, I'm a 3rd year computer science student from Cavite State University Imus Campus. I am interested in software development, computer science, and data science. I have recognized the patterns in most programming language so I am able to infer code in Java, Python, C, C++, Kotlin and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. 
 
-Knowledge Stack: HTML | CSS | JavaScript | TypeScript | C | C++ | Python | Kotlin | Java | React | Material UI | Tailwind CSS | FastAPI | Cmake | Gradle | VsCode | Android Studio | Arduino | Git | MySQL | SQLite | Docker | Linux (Debian-based) | Firebase
-
-- 🌱 I’m currently learning Data Science and Machine Learning 
+- 🌱 I’m currently learning Data Science 
 - 📫 How to reach me: johndewey02003@gmail.com 
 
 <div align="center">
   <img width="2000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
-</div>
-<div>
-  <h2 align="left">🚀 My Knowledge Stack:</h2>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,c,cpp,py,kotlin,java,react,materialui,tailwind,fastapi,cmake,gradle,vscode,androidstudio,arduino,git,mysql,sqlite,docker,linux,firebase" />
-  </div>
 </div>
 
 <h2>⚡ My Github Stats:</h2>
