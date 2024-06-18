@@ -2,14 +2,19 @@
 <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-Hi, I'm a 3rd year computer science student from Cavite State University Imus Campus. I am interested in software development, computer science, and data science. I have recognized the patterns in most programming language so I am able to infer code in Java, Python, C, C++, Kotlin and Typescript. I can also learn and adapt to any programming language if needed and I am always open for new knowledge and insights. I also have a strong fundamental knowledge of Object Oriented Programming, Application Architectures, Computer Network Protocols, Low Level Programming, Linux, Embedded Systems, Frontend Development, Backend Development and more.
+I'm a third-year Computer Science student at Cavite State University Imus Campus. My curiosity and passion for learning have driven me to build a strong foundation in various domains, including: **Object Oriented Programming, Application Architectures, Computer Network Protocols, Low Level Programming, Linux, Embedded Systems, Frontend Development, Backend Development** and more.
 
-- 🌱 I’m currently learning Data Science 
-- 📫 How to reach me: johndewey02003@gmail.com 
+- 🔭 I’m interested in **software development, data engineering, and data science**
+- 🌱 I’m currently learning **statistics**
+- 💬 Ask me about **bayes theorem**
+- 📫 Send me an email at **johndewey02003@gmail.com**
 
+<h2 align="left">🚀 Technologies I'm focusing on:</h2>
 <div align="center">
-  <img width="2000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
+  <img src="https://skillicons.dev/icons?i=c,ts,react,py,fastapi,postgres,pytorch,tensorflow,docker,firebase" />
 </div>
+
+<img width="2000" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
 
 <h2>⚡ My Github Stats:</h2>
 
