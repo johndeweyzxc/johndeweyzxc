@@ -6,7 +6,7 @@ I'm a third-year Computer Science student at Cavite State University Imus Campus
 
 - 🔭 I’m interested in **software development, data engineering, and data science**
 - 🌱 I’m currently learning **statistics**
-- 💬 Ask me about **bayes theorem**
+- 💬 Ask me about **network protocols**
 - 📫 Send me an email at **johndewey02003@gmail.com**
 
 <h2 align="left">🚀 Technologies I'm focusing on:</h2>
