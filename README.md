@@ -2,7 +2,7 @@
 <img width="1000" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" />
 <img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" />
 
-I'm a third-year Computer Science student at Cavite State University Imus Campus. My curiosity and passion for learning have driven me to build a strong foundation in various domains, including: **Object Oriented Programming, Application Architectures, Computer Network Protocols, Low Level Programming, Linux, Embedded Systems, Frontend Development, Backend Development** and more.
+I'm a third-year Computer Science student at Cavite State University Imus Campus. My curiosity and passion for learning have driven me to build a strong foundation in various domains, including: **Object Oriented Programming, Event Driven Programming, Low Level Programming, Computer Network Protocols, Frontend Development, Linux, Containerization, Cloud, Backend Development** and more.
 
 - 🔭 I’m interested in **software development, data engineering, and data science**
 - 🌱 I’m currently learning **statistics**
