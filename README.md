@@ -4,8 +4,6 @@
   <img width=2000 src="top-picture.png">
 </div>
 
-#### I'm an undergraduate Computer Science student at Cavite State University Imus Campus. My curiosity and passion for learning have driven me to build anthing I could imagine.
-
 - 🔭 I’m interested in **software development, data engineering, and data science**
 - 🌱 I’m currently learning **statistics**
 - 💬 Ask me about **network protocols**
