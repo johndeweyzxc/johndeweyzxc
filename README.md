@@ -14,7 +14,7 @@
   <img height=70 src="https://skillicons.dev/icons?i=py" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" height=70 />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" height=70 />
-  <img height=70 src="https://skillicons.dev/icons?i=fastapi,postgres,pytorch,sklearn,docker,firebase" />
+  <img height=70 src="https://skillicons.dev/icons?i=fastapi,postgres,selenium,sklearn,docker,firebase" />
   <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" height=70 />
 </div>
 
