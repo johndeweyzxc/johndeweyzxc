@@ -3,7 +3,8 @@
   <img width=2000 src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" />
   <br>
   <br>
-  <img src="https://github.com/user-attachments/assets/61cd2f35-61d1-461a-916b-8410e0dcbcd5" />
+
+  <img src="https://github.com/user-attachments/assets/845ce503-9681-4a06-80a9-fe671182ba19" />
 </div>
 
 - 🔭 <samp>I'm interested in **Data Science and Artificial Intelligence**<samp>
@@ -15,8 +16,8 @@
 | ------------- | ------------- | ------------- |
 | <div align="center"><samp>PyTorch<samp></div> | <div align="center"><samp>Scikit-Learn<samp></div> | <div align="center"><samp>Google Cloud Platform<samp></div> |
 
-### 📈 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johndeweyzxc&show_icons=true&theme=radical)
+### 📊 Github Statistics
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=johndeweyzxc&show_icons=true&theme=radical)
 
 ### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=donut&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=donut&theme=radical)
