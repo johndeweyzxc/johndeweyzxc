@@ -7,17 +7,19 @@
   <img src="https://github.com/user-attachments/assets/845ce503-9681-4a06-80a9-fe671182ba19" />
 </div>
 
-- 🔭 <samp>I'm interested in **Data Science and Artificial Intelligence**<samp>
-- 🔬 <samp>I'm comfortable with most programming languages, but I usually stick with Python for simplicity<samp>
-- 🌱 <samp>I’m currently learning PyTorch<samp>
+- 🔭 <samp>I'm Interested in web scraping, data analysis, machine learning and data visualization<samp>
+- 🔬 <samp>Currently focusing on social media data analysis<samp>
+- 🌱 <samp>I’m currently learning SQL<samp>
 
-### 🚀 Technologies I'm studying
-| <img height=60 src="https://go-skill-icons.vercel.app/api/icons?i=pytorch" /> | <img height=60 src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" /> | <img height=60 src="https://go-skill-icons.vercel.app/api/icons?i=gcp" /> |
-| ------------- | ------------- | ------------- |
-| <div align="center"><samp>PyTorch<samp></div> | <div align="center"><samp>Scikit-Learn<samp></div> | <div align="center"><samp>Google Cloud Platform<samp></div> |
+### 📊 DATA ANALYSIS PROJECT
 
-### 📊 Github Statistics
-![Github Statistics](https://github-readme-stats.vercel.app/api?username=johndeweyzxc&show_icons=true&theme=radical)
+[<img src='https://github.com/johndeweyzxc/johndeweyzxc/blob/main/Github%20vector%20representation%20and%20projection.png' alt='github' height='290'>](https://johndeweyzxc-subreddit-offmychestph-data-dashboard.hf.space/)
+[<img src='https://github.com/johndeweyzxc/johndeweyzxc/blob/main/Github%20word%20cloud.png' alt='github' height='290'>](https://johndeweyzxc-subreddit-pinoyprogrammer-data-dashboard.hf.space/)
 
-### 📊 Top Languages
+<samp>Click the image to access the site<samp>
+
+### 🚀 TOOLS
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=py,pandas,numpy,matplotlib,sklearn,pytorch,selenium,huggingface&perline=4"/>
+
+### 📊 TOP LANGUAGES
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=donut&theme=radical)
