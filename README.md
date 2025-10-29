@@ -11,16 +11,8 @@
 - 🔬 <samp>Currently focusing on social media data analysis<samp>
 - 🌱 <samp>I’m currently learning SQL<samp>
 
-### 📊 DATA ANALYSIS PROJECT
-
-[<img src='https://github.com/johndeweyzxc/johndeweyzxc/blob/main/Github%20vector%20representation%20and%20projection.png' alt='github' height='290'>](https://johndeweyzxc-subreddit-offmychestph-data-dashboard.hf.space/)
-[<img src='https://github.com/johndeweyzxc/johndeweyzxc/blob/main/Github%20word%20cloud.png' alt='github' height='290'>](https://johndeweyzxc-subreddit-pinoyprogrammer-data-dashboard.hf.space/)
-[<img src='https://github.com/johndeweyzxc/johndeweyzxc/blob/main/Github%20metadata%20visualization.jpg' alt='github' height='290'>](https://johndeweyzxc-reddit-philippines-eda.hf.space/)
-
-<samp>Click the image to access the site<samp>
-
 ### 🚀 TOOLS
-<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=py,pandas,numpy,matplotlib,sklearn,pytorch,selenium,huggingface&perline=4"/>
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,sklearn,pytorch,selenium,fastapi,postgresql,docker,huggingface,firebase,androidstudio,vscode"/>
 
 ### 📊 TOP LANGUAGES
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=donut&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=radical&langs_count=14)
