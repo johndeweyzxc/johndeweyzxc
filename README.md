@@ -7,12 +7,10 @@
   <img src="https://github.com/user-attachments/assets/845ce503-9681-4a06-80a9-fe671182ba19" />
 </div>
 
-- 🔭 <samp>I'm Interested in web scraping, data analysis, machine learning and data visualization<samp>
-- 🔬 <samp>Currently focusing on social media data analysis<samp>
-- 🌱 <samp>I’m currently learning SQL<samp>
+- 🔭 <samp>I am interested in embedded systems, frontend development, web scraping, data analysis, data visualization and machine learning<samp>
+- 🔬 <samp>I work as an Associate Software Developer for a CRM system utilizing Vue JS, Express JS and MySQL<samp>
+- 🌱 <samp>I am currently learning agentic frameworks<samp>
+- 🚗 <samp>I like cars and driving<samp>
 
 ### 🚀 TOOLS
-<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,sklearn,pytorch,selenium,fastapi,postgresql,docker,huggingface,firebase,androidstudio,vscode"/>
-
-### 📊 TOP LANGUAGES
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndeweyzxc&layout=compact&theme=radical&langs_count=14)
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vuejs,expressjs,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,sklearn,pytorch,selenium,fastapi,postgresql,huggingface,firebase,git"/>
