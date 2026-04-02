@@ -13,4 +13,4 @@
 - 🚗 <samp>I like cars and driving<samp>
 
 ### 🚀 TOOLS
-<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vuejs,expressjs,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,sklearn,pytorch,selenium,fastapi,postgresql,huggingface,firebase,git"/>
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vuejs,expressjs,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,selenium,fastapi,postgresql,huggingface,firebase,git"/>
