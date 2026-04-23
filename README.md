@@ -7,10 +7,13 @@
   <img src="https://github.com/user-attachments/assets/845ce503-9681-4a06-80a9-fe671182ba19" />
 </div>
 
-- 🔭 <samp>I am interested in embedded systems, frontend development, web scraping, data analysis, data visualization and machine learning<samp>
+- 🔭 <samp>I am interested in embedded systems, web app and mobile app development<samp>
 - 🔬 <samp>I work as an Associate Software Developer for a CRM system utilizing Vue JS, Express JS and MySQL<samp>
-- 🌱 <samp>I am currently learning agentic frameworks<samp>
+- 🌱 <samp>I am currently learning Swift and IOS<samp>
 - 🚗 <samp>I like cars and driving<samp>
 
 ### 🚀 TOOLS
-<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vuejs,expressjs,py,java,kotlin,c,jupyter,pandas,numpy,matplotlib,selenium,fastapi,postgresql,huggingface,firebase,git"/>
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,vuejs,expressjs,mysql,py,java,kotlin,c,firebase,git"/>
+
+### 🍎 CURRENTLY LEARNING
+<img height=120 align="top" src="https://go-skill-icons.vercel.app/api/icons?i=swift,apple"/>
